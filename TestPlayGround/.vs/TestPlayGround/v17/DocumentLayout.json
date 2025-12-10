@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\AdvancedPlayGround\\TestPlayGround\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\pages\\authorizedpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\pages\\authorizedpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\pages\\authorizedpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\pages\\authorizedpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\middleware\\iprestrictedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\middleware\\iprestrictedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|d:\\advancedplayground\\testplayground\\testplayground\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFF084-7A21-4FF6-BC2A-1E0AFBA50089}|TestPlayGround\\TestPlayGround.csproj|solutionrelative:testplayground\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,6 +45,23 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizedPage.cshtml.cs",
+              "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\AuthorizedPage.cshtml.cs",
+              "RelativeDocumentMoniker": "TestPlayGround\\Pages\\AuthorizedPage.cshtml.cs",
+              "ToolTip": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\AuthorizedPage.cshtml.cs",
+              "RelativeToolTip": "TestPlayGround\\Pages\\AuthorizedPage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:29:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -43,19 +72,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IpRestrictedMiddleware.cs",
+              "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Middleware\\IpRestrictedMiddleware.cs",
+              "RelativeDocumentMoniker": "TestPlayGround\\Middleware\\IpRestrictedMiddleware.cs",
+              "ToolTip": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Middleware\\IpRestrictedMiddleware.cs",
+              "RelativeToolTip": "TestPlayGround\\Middleware\\IpRestrictedMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:19:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizedPage.cshtml",
+              "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\AuthorizedPage.cshtml",
+              "RelativeDocumentMoniker": "TestPlayGround\\Pages\\AuthorizedPage.cshtml",
+              "ToolTip": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\AuthorizedPage.cshtml",
+              "RelativeToolTip": "TestPlayGround\\Pages\\AuthorizedPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T13:18:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "TestPlayGround\\Pages\\Index.cshtml.cs",
               "ToolTip": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "TestPlayGround\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T10:32:12.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "TestPlayGround\\Pages\\Index.cshtml",
@@ -68,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Program.cs",
               "RelativeDocumentMoniker": "TestPlayGround\\Program.cs",
               "ToolTip": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Program.cs",
               "RelativeToolTip": "TestPlayGround\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T10:30:15.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "D:\\AdvancedPlayGround\\TestPlayGround\\TestPlayGround\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "TestPlayGround\\Middleware\\RequestLoggingMiddleware.cs",
