@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestPlayGround")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c462004ef336e26120847c25460f42e395d18dfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestPlayGround")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestPlayGround")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
